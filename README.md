@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alex Genin!</h1>
 <h3 align="center">A passionate Front End Developer who is eager to create cutting-edge web apps</h3>
 
-- 💻 I’m currently working on [Stocks App](https://stocksy-app.herokuapp.com/)
+💻 I’m currently working on [Stocks App](https://stocksy-app.herokuapp.com/)
 
-- 📚 I’m currently learning **TypeScript and Jest**
+📚 I’m currently learning **TypeScript and Jest**
 
-- 📌 All of my projects and resume are available at [https://alexgenin.com/](https://alexgenin.com/)
+📌 All of my projects and resume are available at [https://alexgenin.com/](https://alexgenin.com/)
 
-- 📫 How to reach me **alex.genin99@gmail.com**
+📫 How to reach me **alex.genin99@gmail.com**
 
-- 🧬 Fun fact **I am studying biochemistry at Moscow State University**
+🧬 Fun fact **I am studying biochemistry at Moscow State University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
