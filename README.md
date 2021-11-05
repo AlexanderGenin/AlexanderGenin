@@ -7,15 +7,15 @@
 
 📌 All of my projects and resume are available at [https://alexgenin.com/](https://alexgenin.com/)
 
-📫 How to reach me **alex.genin99@gmail.com**
+📫 How to reach me **alex.genin99@gmail.com** or Telegram [@alexgenin](https://t.me/alexgenin)
 
-🧬 Fun fact **I am studying biochemistry at Moscow State University**
+🧬 Fun fact: **I am studying biochemistry at Moscow State University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/alexgenin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/alexgenin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-genin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-genin/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/alexgenin99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alexgenin99/" height="30" width="40" /></a>
+<a href="https://t.me/alexgenin" target="blank"><img align="center" src="https://user-images.githubusercontent.com/55929549/140492810-5d460f6c-4d9d-4d1f-9074-943726c5dabe.png" alt="https://t.me/alexgenin" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
