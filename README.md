@@ -3,13 +3,13 @@
 
 💻 I’m currently working on [Stocks App](https://stocksy-app.herokuapp.com/)
 
-📚 I’m currently learning **TypeScript and Jest**
+📚 I’m currently learning **Node.js and AWS**
 
 📌 All of my projects and resume are available at [https://alexgenin.com/](https://alexgenin.com/)
 
 📫 How to reach me **alex.genin99@gmail.com** or Telegram [@alexgenin](https://t.me/alexgenin)
 
-🧬 Fun fact: **I am studying biochemistry at Moscow State University**
+🧬 Interesting fact: **I am studying biochemistry at Moscow State University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,7 +48,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandergenin&show_icons=true&locale=en&layout=compact" alt="alexandergenin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandergenin&show_icons=true&locale=en" alt="alexandergenin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandergenin&" alt="alexandergenin" /></p>
