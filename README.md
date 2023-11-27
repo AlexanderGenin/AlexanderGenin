@@ -5,8 +5,6 @@
 
 📚 I’m currently learning **Node.js and AWS**
 
-📌 All of my projects and resume are available at [https://alexgenin.com/](https://alexgenin.com/)
-
 📫 How to reach me **alex.genin99@gmail.com** or Telegram [@alexgenin](https://t.me/alexgenin)
 
 🧬 Interesting fact: **I am studying biochemistry at Moscow State University**
