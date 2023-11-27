@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Genin!</h1>
-<h3 align="center">A passionate Front End Developer who is eager to create cutting-edge web apps</h3>
+<h3 align="center">A passionate Full Stack Developer who is eager to create cutting-edge web apps</h3>
 
 💻 I’m currently working on [Stocks App](https://stocksy-app.herokuapp.com/)
 
