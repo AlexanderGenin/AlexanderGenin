@@ -12,7 +12,7 @@
 
 <h2 align="left">👨‍💻 System Design blog</h2>
 
-You are welcome to visit my blog on System Design and Software Arcitecture at <a href="https://alexgenin.com" target="blank">**alexgenin.com**</a>!
+You are welcome to visit my blog about System Design and Software Architecture at <a href="https://alexgenin.com" target="blank">**alexgenin.com**</a>!
 
 <a href="https://alexgenin.com" target="blank"><img width="776" alt="Alex Genin | System Design" src="https://github.com/AlexanderGenin/AlexanderGenin/assets/55929549/9df85d72-c51c-4d0d-9289-f19aa333d888"></a>
 
